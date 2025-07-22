@@ -1,0 +1,19 @@
+# Ambiente Virtual
+pdv-env/
+
+# Ficheiros de compilação do PyInstaller
+build/
+dist/
+*.spec
+
+# Ficheiros de cache do Python
+__pycache__/
+*.pyc
+
+# Ficheiros de dados gerados
+data/
+config.json
+
+# Ficheiros de sistema
+.vscode/
+.idea/
